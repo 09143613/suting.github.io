@@ -1,0 +1,59 @@
+@charset "UTF-8";
+/* css document */
+body,ol,ul,li,p,h1,h2,h3,h4,h5,h6,form,filedset,table,td,img,div,dt,dd,input{margin:0;padding:0;}
+
+body{
+	background:white;
+	padding-top:70px;
+	font:15px;
+}
+
+a{
+	text-decoration:none;
+	
+}
+
+li{
+	list-style:none;
+}
+html {
+  font-family: sans-serif;
+  -webkit-text-size-adjust: 100%;
+      -ms-text-size-adjust: 100%;
+}
+
+/* 导航条全局设置 */
+.nav :hover .dropdown-menu {
+	display: block;
+}
+#ewm{
+	width:150px;
+	height:150px;
+}
+
+/*bottom*/
+#bottom{
+	margin-top:150px;
+	background:#666666;
+}
+
+#bottom a{
+	color:#000000;
+	text-decoration:none;
+}
+#bottom a:hover{
+	color:#FFFFFF;
+}
+#bottom ul{
+	margin-top:50px;
+}
+#bottom ul li{
+	margin-top:20px;
+}
+.lead{
+	margin-top:50px;
+}
+#li-bt{
+	color:#CCCCCC;
+}
+

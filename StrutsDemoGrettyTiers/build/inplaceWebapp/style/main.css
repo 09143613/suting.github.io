@@ -1,0 +1,190 @@
+@charset "UTF-8";
+
+.caption img{
+	width:130px;
+	height:36px;
+}
+.nav{font:15px;}
+/*分界线*/
+#fjx{
+	margin-bottom:20px;
+	margin-top:20px;
+}
+a{
+	text-decoration:none;
+	color:#5cb85c;
+	font-weight:450;
+}
+/*楼层1-5楼*/
+.panel-heading{
+	height:35px;
+	border-bottom:3px solid #ff6666;
+}
+.panel-heading strong{
+	font:15px;
+	margin-top:2px;
+}
+.panel-heading strong a{
+	color:#5cb85c;
+}
+.caption p,.caption h3{
+	text-align:center;
+}
+.caption p {
+	color:#ff6666;
+}
+.caption h3{
+	color:#5cb85c;
+	font-weight:bold;
+}
+#spl img{
+	height: 180px; 
+	width: 100%; 
+	display: block; 
+}
+/*6F 7F 8F 的超值促销*/
+#one,#two,#three,#four,#five,#six,#seven,#eight{
+	width:840px;
+	border-bottom:2px solid #ff6666;
+}
+#cuxiao1{
+	margin-left:10px;
+	width:405px;
+}
+#cuxiao2{
+	margin-left:0px;
+	width:405px;
+}
+#spl-img a{
+	margin-left:30px;
+}
+#spl-img{
+	margin-top:15px;
+}
+#spl-img img{
+	width: 160px;
+	height:160px;
+}
+#spl-img a p{
+	margin-left:50px;
+	color:5cb85c;
+}
+#spl-img ul li{
+	
+}
+
+
+/* 菜单栏 */
+
+#menu ul{
+	font-size:17px;
+	color:balck;
+}
+#menu h3{/*全部商品*/
+	text-align:center;
+	height:40px;
+	line-height:40px;
+	width:170px;
+	color:white;
+	border-top:3px solid #ff6666;
+	background:#5cb85c;
+	margin-left:10px;
+	margin-top:0px;
+}
+#menu-a{/*导航条*/
+	border-top:3px solid #ff6666;
+	width:630px;
+	color:#ff6666;
+}
+
+#menu-a ul li :hover{
+	background:#ff6666;
+	color:#ffffff;
+}
+
+
+/* 搜索栏 已完成代码不必修改 */
+#logo{
+	margin-left:60px;
+	border:3px solid #ff6666;
+}
+#search-txt{
+	margin-top:50px;
+	
+}
+#search-btn{
+	margin-top:50px;
+}
+#alert{
+	height:180px;
+}
+#alert p{
+	color:#333333;
+}
+#alert img{
+	margin-left:8px;
+	margin-top:10px;
+}
+
+/* 轮播广告 */
+#ad-carousel{
+	margin-top:10px;
+	margin-left:0px;
+}
+.carousel {
+	width:880px;
+    height: 500px;
+    margin-bottom: 60px;
+}
+
+.carousel .item {
+     height: 500px;
+     background-color:#ff6666;
+}
+.carousel img {
+     width:100%;
+}
+.carousel-caption {
+            z-index:50;
+}
+
+.carousel-caption p {
+            margin-bottom: 20px;
+            font-size: 20px;
+            line-height: 1.8;
+}
+
+
+/*右侧导航条*/
+#rightmenu{
+	position:fixed;
+	right:0%;
+	background:#FF6666;
+	width:50px;
+	/*margin-left:630px;*/
+	margin-right:0px;
+	top:50px;
+	color:white;
+	z-index:50;
+}
+#rightmenu ul li{
+	background:#FF6666;
+	width:50px;	
+	color:white;
+	text-align:center;
+}
+#rightmenu a{
+	color:white;
+}
+#rightmenu a:hover{
+	color:#ff6666;
+	background:#FFCC99;
+}
+
+/*客服*/
+#kefu img{
+	width:50px;
+	height:50px;
+}
+
+
