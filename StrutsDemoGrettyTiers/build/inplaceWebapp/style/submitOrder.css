@@ -1,0 +1,45 @@
+@charset "UTF-8";
+body{
+	background:#CCCCCC;
+}
+/*logo*/
+#sbm_ord_logo{
+	border:3px solid #ff6666;
+	width:130px;
+	height:80px;
+}
+#jdt{
+	margin-top:15px;
+}
+
+.col-lg-3 h4{
+	color:#0000FF;
+	font:600;
+	margin-top:50px;
+}
+
+/*收获地址*/
+.form-group{
+	margin-top:10px;
+	
+}
+
+
+/*footer元素*/
+footer a{
+	color:#666666;
+}
+footer{
+	background:#CCCCCC;
+	margin-left:-110px;
+	width:1480px;
+}
+footer .container{
+	margin-top:50px;
+}
+footer ul li {
+	margin-top:30px;
+}
+footer ul {
+	
+}

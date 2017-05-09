@@ -1,0 +1,16 @@
+$(function(){
+		
+		$(".fuzhuang").hover(
+			function(){
+				$(".fuzhuang ul li").show();
+			},
+			function(){
+				$(".fuzhuang ul li").hide();
+			}
+		),
+		
+		$("#left1").hover(
+			function(){
+				$("#left11").css("background-color":"#00AEAE",);
+		})£¬
+})

@@ -1,0 +1,58 @@
+@charset:utf-8;
+
+
+.price{
+	color:#FF0000;
+	margin-left:10px;
+}
+.price span{
+	background:#999999;
+	color:white;
+}
+.name{
+	color:#666666;
+	margin-left:10px;
+}
+.fenlei{
+	float:left;
+	margin-left:5px;
+	margin-top:10px;
+}
+#cnxh{
+	margin-top:40px;
+}
+.cnxh{
+	margin-top:40px;
+	margin-left:5px;
+	float:left;
+}
+.cnxh img{
+	height:230px;
+	width:150px;
+}
+
+#backup{
+	display:block;
+	width:40px;
+	height:40px;
+	background:#ff6666;
+	opacity:0.7;
+	text-align:center;
+	line-height:40px;
+	font-size:25px;
+	position:fixed;
+	left:50%;
+	margin-left:630px;
+	margin-top:300px;
+}
+#backup a{
+	color:white;
+	display:block;
+	width:40px;
+	height:40px;
+	text-decoration:none;
+}
+#backup a:hover{
+	color:#ff6666;
+	background:#FF0066;
+}

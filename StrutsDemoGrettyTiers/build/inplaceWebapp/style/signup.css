@@ -1,0 +1,56 @@
+#sbm_ord_logo img{
+	border:3px solid #ff6666;
+	width:150px;
+	height:94px;
+}
+#left{
+	font-size:30px;
+	color:#FF3333;
+	margin-top:40px;
+}
+.pull-right{
+	margin-top:50px;
+}
+#right{
+	margin-top:30px;
+}
+.panel-body{
+	margin-left:40px;
+	border:2px solid #0099FF;
+	display:block;
+	width:500px;
+	height:400px;
+}
+.panel-heading{
+	margin-left:40px;
+	border-bottom:2px solid #0099ff;
+}
+
+h3{
+	background:#0099ff;
+	width:100px;
+	margin-left:40px;
+	margin-top:40px;
+}
+label{
+	margin-left:20px;
+}
+#agree{
+	margin-left:20px;
+}
+.btn{
+	margin-left:40px;
+}
+
+/*µÇÂ¼*/
+#zdlogin,#rempsd{
+	margin-left:40px;
+}
+#logindiv{
+	height:280px;
+	width:450px;
+}
+#logindiv button{
+	margin-left:80px;
+}
+
